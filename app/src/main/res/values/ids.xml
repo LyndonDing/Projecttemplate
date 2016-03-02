@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="content" type="id"/>
+    <item name="fragment_container" type="id"/>
+
+    <!--home-->
+    <item name="tool_bar" type="id"/>
+    <item name="drawer_menu" type="id"/>
+
+</resources>
